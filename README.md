@@ -21,7 +21,7 @@ Hi, I'm a C# Developer with 4 years of experience!
 - 🚀 Contribute to projects that can have a positive impact on society.
 
 ### How to reach me
-- 💼 [LinkedIn](https://www.linkedin.com/in/murilo-souza-barros-abb668137/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/murilo-souza-barros/)
 - 📧 [Email](mailto:murilodesouzabarros@gmail.com)
 
 
